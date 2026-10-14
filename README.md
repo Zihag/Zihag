@@ -2,9 +2,7 @@
 
 # Huynh Trong Nghia
 
-### Flutter Developer
-
-Building and publishing mobile apps end-to-end — from Figma to Google Play Store.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+apps+end-to-end;From+Figma+to+Google+Play+Store;Clean+Architecture+%7C+BLoC%2FCubit" alt="Typing SVG" />
 
 </div>
 
