@@ -1,53 +1,109 @@
-<h1 align="center">Hi 👋, I'm Zihag</h1>
-<h3 align="center">Mobile Developer | Kotlin · Swift · Flutter</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+mobile+apps+for+Android+%26+iOS;Kotlin+%7C+Swift+%7C+Flutter;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+<pre>
+......................................................................
+......................................................................
+......................................................................
+......................................................................
+..........................................::---:......................
+.......................................:=++******-....................
+......................................-**##%%%%%%#-...................
+.........................::---:......=**###%%%%%%%=...................
+.......................:+*###**=:::-=+++****#%%%%%+...................
+.......................+*####**+==-==+++++++*#%%%%%*===-:.............
+......................-+******++=---======-=+*#%@@%%%%##*-............
+.....................:=+++++++=-::::.:::..:=*#%%@@@@%%%%#*............
+..................:-======-==-::...     .:=+#%%@@@@@%%%%#*............
+................:==++===-::::..        ..-+*#%%%%%%%%%%#+:............
+..............:-======-:...            ..=+*#%%%%%%%#+-:..............
+..............::-----...              ..:=++***####*-.................
+...............::::..                 ..:----:-*##*-..................
+.................:.                    .....::=+***...................
+..................                     ......:=++**-..................
+................                           ..:-=++*+=--:..............
+.................. . ...:.......::.....  .-==-.-==+++++=:.............
+..............::::::---====---====---::::=++++-.--===+++-.............
+...............-====+++***++++++**++====+****+-..:-=====:.............
+...............:++**########**#####*****##**+=. .:-----...............
+...............:+*##%%%%%%%%%%%%%%%%%#####**=.  ::::..................
+................*##%%%%@@@@%%%%%%%%%%%%%%#*+:..:--:...................
+................=##%%@@@@@@@@@@@@@@@@@@%%%#*-:::......................
+.................+#%%@@@@@@@@@@@@@@@@@@@%%%*=:........................
+.................:*#%%@@@@@@@@@@@@@@@@@@%%%*:.........................
+...................+#%%@@@@@@@@@@@@@%%@%%%%*..........................
+....................-#%%%%@@@@@@@@%%%+%%%%%#=-:.......................
+......................+#%%%##%@@@%%%%*##%%%###*-......................
+.......................:-::=*%%@%%%#*+==+*#%%%#:......................
+..........................+#%%%%%%%#***#%%%%%%#:......................
+...........................*%%@@@@@@%%#*%%@@@%%+......................
+...................... ....=%%@@@@@@@%%#%@@@@%%#......................
+..................   . ....:#%@@@@@@@@%%%@@@@%%%+...   ...............
+.............  .   .....-=+#%%@@@@@@@@%##%%%%%%%#*...      ...........
+...................:=+#%%%%%@@@@@@@@@@@%%%@%%#=+###+-...     .........
+............:-=+*#%%%%%%%@@@@@@@@@@@@@@@@@@@%%%*+*#%%#=:..............
+........:=*#%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%#=:...........
+......:+%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%#+:........
+.....=#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##%%%%*-......
+....=#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#=*%%%%%+.....
+</pre>
+
+# Huynh Trong Nghia
+
+### Flutter Developer
+
+Building and publishing mobile apps end-to-end — from Figma to Google Play Store.
+
+</div>
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🔭 Currently building mobile applications with **Kotlin**, **Swift**, and **Flutter**
-- 🌱 Always exploring new tools and best practices in mobile development
-- 💡 Interested in clean architecture, smooth UI/UX, and cross-platform solutions
-- ⚡ Fun fact: I enjoy turning ideas into working apps, one commit at a time
+- Flutter developer with hands-on experience taking apps from requirements to release on Google Play
+- Comfortable with **Clean Architecture**, **BLoC/Cubit**, **Firebase** and **Supabase** across personal and freelance projects
+- Actively looking for my first full-time role to grow in a structured team environment
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC/Cubit-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drift-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+### Featured Projects
+
+**[Tickmate — Attendance & Group Management App](https://play.google.com/store/apps/details?id=com.hazig.tickmate)**
+Personal project built end-to-end to learn Flutter from architecture to publishing and post-release maintenance. Real-time group management and attendance tracking with Firebase Firestore and BLoC, automated event reminders via Cloud Functions, Branch.io deep linking, and AdMob integration.
+`Flutter` · `BLoC` · `Firebase (Firestore, Auth, Cloud Functions, Storage, Remote Config)` · `Figma`
+
+**[Daily Quote](https://play.google.com/store/apps/details?id=com.cdev.daily_quote)** — freelance project
+Built from scratch with a teammate based on product requirements. Delivered user personalization (theme-based quote filtering, favorites, persistent settings via Supabase), push and scheduled local notifications, native home-screen widget using Clean Architecture, BLoC/Cubit, GetIt, and Remote Config.
+`Flutter` · `Supabase` · `BLoC/Cubit` · `GetIt` · `Home Widget`
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zihag/Zihag/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zihag/Zihag/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/Zihag/Zihag/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zihag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihag&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+📫 nghia.zihag@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihag&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zihag&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zihag&style=flat-square&color=36BCF7" alt="profile views" />
-</p>
+</div>
